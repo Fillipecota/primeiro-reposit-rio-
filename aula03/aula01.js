@@ -13,7 +13,6 @@ var qt = (qg * 50) + (qc * 10) + (qe * -5)
            }else if (qt >=150 && qt<200){
             document.write("FOI BEM NA PARTIDA");
            }else{ 
-           
             document.write("JOGOU DEMAIS");
            }
                                                                                                                          
